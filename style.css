@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.menu img{
+    width: 100px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.text{
+    /* margin-top: 40px; */
+}
+.features{
+    padding: 10px;
+    text-align: center;
+    /* margin-top: 400px; */
+    
+}
+.features img{
+    width: 300px;
+    height: 400px;
+}
+.iphone_14{
+    background: #F5F5F7;
+}
+.button{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    background: rgb(35, 35, 255);
+}
+.button:hover{
+    color: rgb(35, 35, 255);
+    background: white;
+    border: 1px solid rgb(35, 35, 255);
+}
+.button a{
+    color: white;
+}
+.pro{
+    background: none;
+}
+.max{
+    background: #F5F5F7;
+}
+.max h1{
+    font-weight: bold;
+    font-size: 60px;
+}
+.max p{
+    font-weight: bold;
+}
+.pro h1{
+    font-weight: bold;
+    font-size: 60px;
+}
+.pro p{
+    font-weight: bold;
+}
+.iphone_14 h1{
+    font-weight: bold;
+    font-size: 60px;
+}
+.iphone_14 p{
+    font-weight: bold;
+}
